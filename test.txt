@@ -1,0 +1,1 @@
+I want to learn how to check if the current branch has an remote branch linked to it.
