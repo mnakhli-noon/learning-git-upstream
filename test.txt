@@ -1,1 +1,3 @@
 I want to learn how to check if the current branch has an remote branch linked to it.
+
+now I pushed the main branch to github, I want to create an new branch then run some commands to see how the will output on main and on the new branch
